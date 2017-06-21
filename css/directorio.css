@@ -1,0 +1,73 @@
+.column {
+  flex-direction: column;
+}
+.wrap {
+  flex-wrap: wrap;
+}
+
+.espdiv{
+  margin: 3%;
+}
+.containerbox {
+  display: flex;
+}
+.space-around {
+  justify-content: space-around;
+}
+
+
+.textoemp{
+  width: 200%;
+  font-family: 'Poiret One', cursive;
+   font-size: 23px;
+}
+
+.logos{
+  width: 60%;
+}
+
+.imagenorg{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-content: space-between;
+  padding: 20px;
+  width: 80%;
+  margin-top:   7em;
+}
+
+.imagenorgc{
+  width: 90%;
+}
+
+
+
+#directorio{
+ display: flex;
+ width: 100%;
+ margin-left: 5%;
+ margin-top:   2em;
+}
+.crecimiento{
+font-family: 'Poiret One', cursive;
+ font-size: 23px;
+ width:150%;
+ margin-top: -1em;
+
+}
+
+#academica{
+ display: flex;
+.enlace{
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ align-content: space-between;
+ padding: 20px;
+ width: 35%;
+}
+#enlace1{
+ width: 20%;
+ margin-top: 40px;
+}
